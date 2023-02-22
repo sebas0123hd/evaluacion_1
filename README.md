@@ -3,14 +3,22 @@ Aplicación de citas
 @date<22-02-2023>
 @author<Ramos Espinoza Martin Sebastian>
 @version<1.0>
-#include <stdio.h>
+
+  #include <stdio.h>
+  
 
 int main(){
+  
   //@name<Nombres de las variables> //
+  
     int sm, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10;
+  
     //Son variables de tipo entero//
+  
     char opc1, opc2, opc3, opc4, opc5, opc6, opc7, opc8, opc9, opc10;
+  
     printf("Bienvenido o bienvenida a Compatibilidad o Aburrimiento");
+  
      printf("\nContesta las siguientes preguntas para saber si te arriesgas con esta relacion o no");
      
       printf("\n1.-¿Es celoso o celosa? \na)Si \nb)No \n");
